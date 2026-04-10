@@ -1,0 +1,12 @@
+// #include<iostream>
+// using namespace std;
+// int change(int x){
+//     x=2*x;
+//     cout<<x<<endl;
+// }
+// int main(){
+//     int x=5;
+//     change(x);
+//     // cout<<x<<endl;
+//      return 0;
+// }
